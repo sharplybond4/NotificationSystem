@@ -1,0 +1,7 @@
+.notify-div{margin:10px;border-radius:15px 5px 5px 15px;transition:width 5s;background:#343a40}
+.notify-title{padding-top:20px;padding-left:20px;padding-right:20px;display:flex}
+.notify-wrapper{position:absolute;top:0;right:0;max-width:20%; min-width: 15%;}
+.notify-icon{padding-right:5px}
+.notify-title-text{font-size:15px;font-weight:700}
+.notify-main-text{padding-left:20px;width:90%;color:#fff}
+.body{background-color: transparent;}
